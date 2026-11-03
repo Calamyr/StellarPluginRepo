@@ -3,7 +3,7 @@
     "Author": "StellarAutoLogin",
     "Name": "Stellar Auto Login",
     "InternalName": "StellarAutoLogin",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "StellarAutoLogin 在国际服标题大厅进入指定的数据中心、服务器和角色。账号登录由启动器完成，这个插件不读取密码。数据中心按北美、欧洲、日本和大洋洲分组；选中后只列出该数据中心的服务器。已经停在大厅时，会核对当前数据中心，一致就继续登录，不一致就回到标题画面重选。",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,7 +18,7 @@
     "LoadPriority": 0,
     "Punchline": "选择数据中心、服务器和角色序号后进入游戏。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Calamyr/StellarPluginRepo/releases/download/v1.0.0.0/StellarAutoLogin-china-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Calamyr/StellarPluginRepo/releases/download/v1.0.0.0/StellarAutoLogin-china-1.0.0.0.zip"
+    "DownloadLinkInstall": "https://github.com/Calamyr/StellarPluginRepo/releases/download/v1.1.0.0/StellarAutoLogin-china-1.1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Calamyr/StellarPluginRepo/releases/download/v1.1.0.0/StellarAutoLogin-china-1.1.0.0.zip"
   }
 ]
